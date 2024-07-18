@@ -15,16 +15,16 @@ msgid "OLD"
 msgstr "---入侵时留下的旧东西---------"
 
 msgid "EFFECT_BOUNCE_DAMAGE_CUSTOM"
-msgstr "[color=#00ff00]+[/color]{0}[color=#00ff00]%[/color] 反弹伤害，不能超过基础伤害"
+msgstr "反弹 [color=#00ff00]+[/color]{0}[color=#00ff00]%[/color] 伤害，不能超过基础伤害"
 
 msgid "EFFECT_REDUCE_NEGATIVE_STAT"
-msgstr "将随机的负面属性减少到其负值的一半。[color=#555555]如果没有负面属性，则没有效果[/color] \n"
+msgstr "将一个随机负面属性的效果降低一半。[color=#555555]如果没有负面属性，则没有效果[/color] \n"
 "\n"
 "受影响的属性：{1}\n"
 "增加：{0}"
 
 msgid "EFFECT_SHOP_MIN_TIER"
-msgstr "商店始终以 {0} 级或更高级别出售武器"
+msgstr "商店始终出售 {0} 级或更高级别的武器"
 
 msgid "EFFECT_SHOP_NO_RANGED_WEAPONS"
 msgstr "商店不再出售远程武器"
